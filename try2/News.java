@@ -10,6 +10,6 @@ public class News {
         //sdsdsd21312312
         // git pull 
         //git fetch sdsdsd git fetch -all
-        // pull
+        // pullsdsdsd
     }
 }
