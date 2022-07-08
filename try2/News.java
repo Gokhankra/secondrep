@@ -9,7 +9,7 @@ public class News {
         // new info added 4545454
         //sdsdsd21312312
         // git pull 
-        //git fetch sdsdsd git fetch -all
-        // pullsdsdsd
+
+
     }
 }
