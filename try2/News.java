@@ -7,5 +7,7 @@ public class News {
         System.out.println("IT is created in githubmerge");
         System.out.println("new line added");
         // new info added
+        
+        // git pull 
     }
 }
