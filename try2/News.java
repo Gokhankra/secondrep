@@ -9,6 +9,6 @@ public class News {
         // new info added
         
         // git pull 
-        //git fetch sdsdsd
+        //git fetch sdsdsd git fetch -all
     }
 }
