@@ -1,0 +1,17 @@
+Index: try2/fetch.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package try2;\r\n\r\npublic class fetch {\r\n// pull deyince otomatik alir ve birlestirir from remote repositry \r\n  // ornegin burayi pull ile\r\n  // eger fetch ile cekersenn git fetch ve update edersen projeyi\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/try2/fetch.java b/try2/fetch.java
+--- a/try2/fetch.java	(revision 9fd9691b9f0b9fff2cb7371acd80d9b0b5ac173c)
++++ b/try2/fetch.java	(date 1657249718530)
+@@ -5,4 +5,6 @@
+   // ornegin burayi pull ile
+   // eger fetch ile cekersenn git fetch ve update edersen projeyi
+ 
++    //5
++
+ }

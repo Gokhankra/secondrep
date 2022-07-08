@@ -1,0 +1,17 @@
+Index: try2/fetch.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package try2;\r\n\r\npublic class fetch {\r\n// pull deyince otomatik alir ve birlestirir\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/try2/fetch.java b/try2/fetch.java
+--- a/try2/fetch.java	(revision 280c0cc1d486506f948e2c3d515c3b52e5c6fa4f)
++++ b/try2/fetch.java	(date 1657249070457)
+@@ -2,5 +2,5 @@
+ 
+ public class fetch {
+ // pull deyince otomatik alir ve birlestirir
+-
++// burayi git fetch ile tutabilirsin
+ }
