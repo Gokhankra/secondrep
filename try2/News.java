@@ -6,10 +6,6 @@ public class News {
         System.out.println("IT is created in github");
         System.out.println("IT is created in githubmerge");
         System.out.println("new line added");
-        // new info added 4545454dsdsdsd
-        //sdsdsd21312312sadasdas
-        // git pull fsfsf dasdasdasd
-asdasdasd
-
+        // 1st step my branch or remote repositry is updated and i have to update my local repository or workspace
     }
 }
