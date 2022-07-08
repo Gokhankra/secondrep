@@ -2,7 +2,7 @@ package try2;
 
 public class fetch {
 // pull deyince otomatik alir ve birlestirir from remote repositry 
-  // sadasd
+  // ornegin burayi pull ile
   // eger fetch ile cekersenn git fetch
 
 }
