@@ -1,5 +1,5 @@
 package forgit;
 
-public class git {//hhh    jbjjjh  updarete
+public class git {//hhh    jb
 
 }
