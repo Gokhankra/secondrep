@@ -22,7 +22,7 @@ Data to test 97 ,100, 275 , 25
             System.out.println("billvalue is"+billvalue +"tip is"+tip1+ "finalvalue is "+finalvalue);
         }else{
             finalvalue=tip2+billvalue;
-            System.out.print(" billv  \t  alue  \t is " + "\t"+ +billvalue + "\t"+ " \t tip is \t " +tip2+ " \t finalvalue is \t " +finalvalue);
+            System.out.print(" billv   \t  alue  \t is " + "\t"+ +billvalue + "\t"+ " \t tip is \t " +tip2+ " \t finalvalue is \t " +finalvalue);
         }
     }
 }
